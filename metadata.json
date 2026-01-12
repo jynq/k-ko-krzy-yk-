@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Toe Pro",
+  "description": "A modern, responsive Tic-Tac-Toe game featuring a sleek dark theme, smooth animations, and local multiplayer support.",
+  "requestFramePermissions": []
+}
